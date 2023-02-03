@@ -1,0 +1,7 @@
+x = int(input("Введите первое число: "))
+y = int(input("Введите второе число: "))
+z = int(input("Введите третье число: "))
+sum = int(x+y+z)
+comp = int(x*y*z)
+print(sum)
+print(comp)
